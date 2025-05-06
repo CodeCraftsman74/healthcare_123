@@ -1,0 +1,8 @@
+{
+  "/page": "app/page.js",
+  "/news/page": "app/news/page.js",
+  "/chatbot/page": "app/chatbot/page.js",
+  "/flashcards/page": "app/flashcards/page.js",
+  "/api/news/route": "app/api/news/route.js",
+  "/api/flashcards/route": "app/api/flashcards/route.js"
+}
