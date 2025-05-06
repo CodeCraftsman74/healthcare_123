@@ -1,6 +1,0 @@
-{
-  "/page": "app/page.js",
-  "/flashcards/page": "app/flashcards/page.js",
-  "/news/page": "app/news/page.js",
-  "/knowledge-hub/page": "app/knowledge-hub/page.js"
-}
