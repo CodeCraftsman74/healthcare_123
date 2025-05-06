@@ -8,7 +8,7 @@ export default function ChatbotPage() {
   const [messages, setMessages] = useState([
     {
       role: 'assistant',
-      content: 'Hello! I\'m MediLearn\'s health information assistant powered by Gemma 3 (4B). I can answer your health-related questions. How can I help you today?'
+      content: 'Hello! I\'m Healchar\'s health information assistant powered by Gemma 3 (4B). I can answer your health-related questions. How can I help you today?'
     }
   ]);
   const [input, setInput] = useState('');

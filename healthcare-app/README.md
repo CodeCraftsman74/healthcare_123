@@ -1,4 +1,4 @@
-# MediLearn - Health Education Platform
+# Healchar - Health Education Platform
 
 An interactive health education platform featuring live health news, flashcards, quizzes, an AI-powered chatbot, personalized learning recommendations, and a health knowledge hub.
 
@@ -44,7 +44,7 @@ An interactive health education platform featuring live health news, flashcards,
 1. Clone the repository:
    ```
    git clone <repository-url>
-   cd medilearn
+   cd healchar
    ```
 
 2. Install dependencies:
@@ -54,7 +54,7 @@ An interactive health education platform featuring live health news, flashcards,
 
 3. Create a `.env.local` file with your configuration:
    ```
-   MONGODB_URI=mongodb://localhost:27017/medilearn
+   MONGODB_URI=mongodb://localhost:27017/healchar
    NEWS_API_KEY=your_newsapi_org_api_key
    ```
 
@@ -88,7 +88,7 @@ npm run start-all
 ## Project Structure
 
 ```
-medilearn/
+healchar/
 ├── public/
 ├── src/
 │   ├── app/

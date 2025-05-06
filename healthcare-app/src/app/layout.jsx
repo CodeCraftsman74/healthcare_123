@@ -3,7 +3,7 @@ import Navbar from '@/components/Navbar';
 import { AuthProvider } from '@/context/AuthContext';
 
 export const metadata = {
-  title: 'MediLearn - Health Education Platform',
+  title: 'Healchar - Health Education Platform',
   description: 'An interactive health education platform with news, flashcards, quizzes, and AI-powered features',
 };
 

@@ -13,7 +13,7 @@ export default function HomePage() {
             Empower Your Health Journey
           </h1>
           <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-            MediLearn provides interactive tools and trusted information to help you understand and manage your health effectively.
+            Healchar provides interactive tools and trusted information to help you understand and manage your health effectively.
           </p>
           <Link href="/knowledge-hub">
             <span className="bg-blue-600 text-white font-semibold px-8 py-3 rounded-lg shadow hover:bg-blue-700 transition duration-300 inline-block">
@@ -133,7 +133,7 @@ export default function HomePage() {
 
       {/* Footer Placeholder */}
       <footer className="py-6 text-center text-gray-500 text-sm">
-        &copy; {new Date().getFullYear()} MediLearn. All rights reserved.
+        &copy; {new Date().getFullYear()} Healchar. All rights reserved.
       </footer>
     </div>
   );

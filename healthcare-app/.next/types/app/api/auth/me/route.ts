@@ -1,4 +1,4 @@
-// File: /Users/lalithaditya/Desktop/healthcare/healthcare-app/src/app/api/auth/me/route.js
+// File: /Users/lalithaditya/Desktop/healthcare_123/healthcare-app/src/app/api/auth/me/route.js
 import * as entry from '../../../../../../src/app/api/auth/me/route.js'
 import type { NextRequest } from 'next/server.js'
 

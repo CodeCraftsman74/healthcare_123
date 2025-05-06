@@ -95,7 +95,7 @@ const STATIC_RECOMMENDATIONS = {
   'Recently Read Articles': [
     {
       title: 'Introduction to Human Anatomy',
-      source: { name: 'MediLearn' },
+      source: { name: 'Healchar' },
       url: '/quiz',
       description: 'Test your knowledge with 10 questions on human anatomy basics',
       type: 'quiz',
@@ -104,7 +104,7 @@ const STATIC_RECOMMENDATIONS = {
     },
     {
       title: 'Medical Terminology Basics',
-      source: { name: 'MediLearn' },
+      source: { name: 'Healchar' },
       url: '/flashcards',
       description: 'Study essential medical terms with these flashcards',
       type: 'flashcards',
@@ -113,7 +113,7 @@ const STATIC_RECOMMENDATIONS = {
     },
     {
       title: 'Recent Advances in Immunotherapy',
-      source: { name: 'MediLearn Journal' },
+      source: { name: 'Healchar Journal' },
       url: '/',
       description: 'Learn about the latest breakthroughs in cancer immunotherapy research',
       type: 'article',

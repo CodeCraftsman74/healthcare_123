@@ -1,4 +1,4 @@
-// File: /Users/lalithaditya/Desktop/healthcare/healthcare-app/src/app/layout.jsx
+// File: /Users/lalithaditya/Desktop/healthcare_123/healthcare-app/src/app/layout.jsx
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
